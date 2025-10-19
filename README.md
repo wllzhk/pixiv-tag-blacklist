@@ -1,8 +1,11 @@
 # Pixiv Tag Blacklist
 
 🕶️ A Tampermonkey script that automatically hides Pixiv works containing blacklisted tags.
+
 适用于 **Pixiv 小说排行榜页 (`[link](https://www.pixiv.net/novel/ranking.php?mode=weekly_r18)`)**，支持桌面端和移动端。
+
 整个script几乎完全由Gemini完成，几乎没有人工痕迹
+
 预置的屏蔽tag仅用于测试，不代表本人爱好，请按需更改
 
 ---
