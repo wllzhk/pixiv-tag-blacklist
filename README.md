@@ -8,15 +8,13 @@
 
 预置的屏蔽tag仅用于测试，不代表本人爱好，请按需更改
 
----
 
 ## 📥 Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (Chrome / Firefox / Edge supported).
-2. Click this link to install the script:
+2. Click this link to download and install the script:
    👉 [**pixiv-tag-blacklist.user.js**](./pixiv-tag-blacklist.user.js)
 
----
 
 ## ⚙️ Configuration
 
@@ -36,7 +34,6 @@ const CONFIG = {
 
 Just add or remove tags as you like.
 
----
 
 ## 💬 Feedback
 
